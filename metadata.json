@@ -1,0 +1,6 @@
+{
+  "name": "Nova Furniture - Modern Minimalist E-Commerce Store",
+  "description": "High-end luxury furniture and home decor e-commerce web application featuring handcrafted Scandinavian and contemporary living spaces, interactive cart, product quick view, and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
